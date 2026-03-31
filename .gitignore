@@ -1,0 +1,17 @@
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.eclipse/
+.settings/
+.project
+.classpath
+
+# Claude Code local config
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
